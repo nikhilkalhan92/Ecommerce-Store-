@@ -12,7 +12,7 @@ I made a responsive ecommerce store with 5 pages. it is responsive on all 4 devi
 
 Live Website - https://ecommerce-store-three-khaki.vercel.app/index.html
 
-Responsiveness - ![responsive](assets/reponsive.png)
+Responsiveness - ![responsive](assets/responsive.png)
 
 
 Pictures below from every page
